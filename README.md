@@ -1,4 +1,4 @@
-![Header](https://github.com/handreasyan/handreasyan/blob/main/assets/header.png)
+![Header](https://github.com/handreasyan/handreasyan/blob/main/assets/header_img.png)
 
 About me
 
