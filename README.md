@@ -1,7 +1,5 @@
 ![Header](https://github.com/handreasyan/handreasyan/blob/main/assets/header_img.png)
 
-About me
-
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000??style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/-React-000??style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-000??style=for-the-badge&logo=redux&logoColor=purple) ![Next](https://img.shields.io/badge/-Next.js-000000??style=for-the-badge&logo=next.js) ![jQuery](https://img.shields.io/badge/-jQuery-000??style=for-the-badge&logo=jquery&logoColor=blue)
@@ -13,3 +11,5 @@ About me
 ### Social Media
 
 [![facebook](https://img.shields.io/badge/-Facebook-000??style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100005061793685) [![linkedin](https://img.shields.io/badge/-Linkedin-000??style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/handreasyan/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handreasyan&layout=compact)
