@@ -19,13 +19,13 @@
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=blue&" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=purple" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=green " />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-2D99CF.svg?&style=for-the-badge&logo=css3&logoColor=blue" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-pink.svg?&style=for-the-badge&logo=sass&logoColor=CF649A" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=purple" />&nbsp;
-<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=green " />&nbsp;
-<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
