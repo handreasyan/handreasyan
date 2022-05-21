@@ -4,7 +4,7 @@
 
 ### 💻 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+<!-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -14,6 +14,19 @@
 ![Redux](https://img.shields.io/badge/-Redux-333333??style=for-the-badge&logo=redux&logoColor=purple)
 ![Next](https://img.shields.io/badge/-Next.js-333333??style=for-the-badge&logo=next.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333??style=for-the-badge&logo=jquery&logoColor=blue)&nbsp;
+![Redux-Saga](https://img.shields.io/badge/-ReduxSaga-333333??style=for-the-badge&logo=redux-saga&logoColor=blue)&nbsp; -->
+
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=blue&" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-2D99CF.svg?&style=for-the-badge&logo=css3&logoColor=blue" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/sass-pink.svg?&style=for-the-badge&logo=sass&logoColor=CF649A" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=purple" />&nbsp;
+<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=green " />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
